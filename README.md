@@ -1,7 +1,11 @@
 <p align="center">
   <a href="https://github.com/gaeldrake">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=730&text=Hello!%20I'm%20GaelDrake" alt="Hello! I&#39;m GaelDrake" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=dev" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
